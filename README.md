@@ -1,1 +1,1 @@
-# AKTU_scrapper
+#This project uses Node.js, Python, JavaScript, and Automation to fulfill its objective. The Script hops into the AKTU site, breaks the captcha using my self-made algorithm(made with JS), and then scraps the result using Web Scrapping and then shows us in the excel sheet within seconds.
